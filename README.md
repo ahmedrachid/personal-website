@@ -2,7 +2,7 @@
   Ahmed Rachid HAZOURLI
 </h1>
 <p align="center">
-  <a href="https://herper.io/">
+  <a href="https://ahmedrachid.github.io/">
     <img src="https://github.com/ahmedrachid/personal-website/blob/master/public/screenshot.PNG" alt="Portfolio Site Screenshot" width="800" />
   </a>
 </p>
