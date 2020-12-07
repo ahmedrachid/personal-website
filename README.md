@@ -2,9 +2,9 @@
   Ahmed Rachid HAZOURLI
 </h1>
 
-<h2 align="center">
+<p align="center">
   🚀 Personal portfolio website built with Typescript
-</h2>
+</p>
 
 <p align="center">
   <a href="https://ahmedrachid.github.io/">
