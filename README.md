@@ -1,13 +1,17 @@
 <h1 align="center">
   Ahmed Rachid HAZOURLI
 </h1>
+
+<h2 align="center">
+  🚀 Personal portfolio website built with Typescript
+</h2>
+
 <p align="center">
   <a href="https://ahmedrachid.github.io/">
     <img src="https://github.com/ahmedrachid/personal-website/blob/master/public/screenshot.PNG" alt="Portfolio Site Screenshot" width="800" />
   </a>
 </p>
-🚀 Personal portfolio website built with Typescript
-## Available Scripts
+
 
 In the project directory, you can run:
 
