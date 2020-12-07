@@ -1,9 +1,9 @@
 <h1 align="center">
-  Ahmed Rachid HAZOURLI Portfolio
+  Ahmed Rachid HAZOURLI
 </h1>
 <p align="center">
   <a href="https://herper.io/">
-    <img src="https://res.cloudinary.com/jacobherper/image/upload/v1588145287/herper-io-website.gif" alt="Portfolio Site Screenshot" width="800" />
+    <img src="https://github.com/ahmedrachid/personal-website/blob/master/public/screenshot.PNG" alt="Portfolio Site Screenshot" width="800" />
   </a>
 </p>
 🚀 Personal portfolio website built with Typescript
