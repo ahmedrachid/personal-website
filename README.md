@@ -1,4 +1,12 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h1 align="center">
+  Ahmed Rachid HAZOURLI Portfolio
+</h1>
+<p align="center">
+  <a href="https://herper.io/">
+    <img src="https://res.cloudinary.com/jacobherper/image/upload/v1588145287/herper-io-website.gif" alt="Portfolio Site Screenshot" width="800" />
+  </a>
+</p>
 🚀 Personal portfolio website built with Typescript
 ## Available Scripts
 
